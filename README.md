@@ -1,6 +1,6 @@
 -  Hi, I’m @Zhorger
 -  I’m interested in the Sciences, Philosphy, Art and Video Games
--  I’m currently learning Computer Engineering
+- I have a BS in Computer Engineering
 
 
 <!---
